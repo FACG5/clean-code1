@@ -1,5 +1,5 @@
 // To run, call:
-// // //  node without_comments.js
+// // // Just clone it and type in the terminal 'node index.js'
 
 // This is a function to sort the array assending
 
